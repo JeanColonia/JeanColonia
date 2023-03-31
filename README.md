@@ -26,10 +26,10 @@
 <img align="left" alt="postgresql" width="26px" src="./img/postgresql-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="oracle" width="26px" src="./img/oracle-original.svg" style="padding-right:10px;" />
 <img align="left" alt="java" width="26px" src="./img/java-plain.svg" style="padding-right:10px;" />
-[<img align="left" alt="spring" width="26px" src="./img/spring-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="angular" width="26px" src="./img/angularjs-plain.svg" style="padding-right:10px;" />]
-[<img align="left" alt="bootstrap" width="26px" src="./img/bootstrap-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="cucumber" width="26px" src="./img/cucumber-plain.svg" style="padding-right:10px;" />]
+<img align="left" alt="spring" width="26px" src="./img/spring-original.svg" style="padding-right:10px;" />
+<img align="left" alt="angular" width="26px" src="./img/angularjs-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="bootstrap" width="26px" src="./img/bootstrap-original.svg" style="padding-right:10px;" />
+<img align="left" alt="cucumber" width="26px" src="./img/cucumber-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="express" width="26px" src="./img/express-original.svg" style="padding-right:10px;" />
 <img align="left" alt="selenium" width="26px" src="./img/selenium-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
