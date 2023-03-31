@@ -1,6 +1,6 @@
-# Hi there, I'm Jean Colonia - 👋 
-# Systems and Informatics Engineer, working as Software Developer and Quality Assurance Engineer
-# Currently location Perú
+## Hi there, I'm Jean Colonia - 👋 
+### Systems and Informatics Engineer, working as Software Developer and Quality Assurance Engineer
+#### Currently location Perú
 
 
 ### Connect with me
@@ -30,16 +30,16 @@
 [<img align="left" alt="angular" width="26px" src="./img/angularjs-plain.svg" style="padding-right:10px;" />]
 [<img align="left" alt="bootstrap" width="26px" src="./img/bootstrap-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="cucumber" width="26px" src="./img/cucumber-plain.svg" style="padding-right:10px;" />]
-[<img align="left" alt="express" width="26px" src="./img/express-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="selenium" width="26px" src="./img/selenium-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="SQL Server" width="26px" src="./img/microsoftsqlserver-plain.svg" />]
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />]
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />]
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />]
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />]
+<img align="left" alt="express" width="26px" src="./img/express-original.svg" style="padding-right:10px;" />
+<img align="left" alt="selenium" width="26px" src="./img/selenium-original.svg" style="padding-right:10px;" />
+<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
+<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+<img align="left" alt="SQL Server" width="26px" src="./img/microsoftsqlserver-plain.svg" />
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
+<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />
+<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />
 
 <br />
 <br />
