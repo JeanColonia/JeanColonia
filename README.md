@@ -23,9 +23,9 @@
 [<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="postgresql" width="26px" src="./img/postgresql-plain.svg" style="padding-right:10px;" />]
-[<img align="left" alt="oracle" width="26px" src="./img/oracle-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="java" width="26px" src="./img/java-plain.svg" style="padding-right:10px;" />]
+<img align="left" alt="postgresql" width="26px" src="./img/postgresql-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="oracle" width="26px" src="./img/oracle-original.svg" style="padding-right:10px;" />
+<img align="left" alt="java" width="26px" src="./img/java-plain.svg" style="padding-right:10px;" />
 [<img align="left" alt="spring" width="26px" src="./img/spring-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="angular" width="26px" src="./img/angularjs-plain.svg" style="padding-right:10px;" />]
 [<img align="left" alt="bootstrap" width="26px" src="./img/bootstrap-original.svg" style="padding-right:10px;" />]
