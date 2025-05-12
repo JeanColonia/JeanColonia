@@ -29,35 +29,35 @@ Además, estoy complementando mi perfil técnico con conocimientos como QA en de
 
 <img src="./img/selenium-original.svg" width="26"/> Selenium  
 <img src="./img/cucumber-plain.svg" width="26"/>  Cucumber  
-<img src="./img/jmeter.svg" width="26"/> JMeter y Blazemeter
+⚡ JMeter y Blazemeter
 <img src="./img/rest-assured.svg" width="26"/> REST Assured  
-<img src="./img/pytest.svg" width="26"/> Pytest  
-<img src="./img/pytest.svg" width="26"/> Playwright  
-<img src="./img/pytest.svg" width="26"/> Appium
-<img src="./img/pytest.svg" width="26"/> Karate
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" width="26" /> Pytest  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" width="26"/> Playwright  
+⚡ Appium
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/karatelabs/karatelabs-original.svg"  width="26" /> Karate
 <img src="./img/postman.svg" width="26"/>  Postman  
-<img src="./img/gatling.svg" width="26"/>  Gatling
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gatling/gatling-original.svg" width="26" /> Gatling
 
 
 **Lenguajes & Frameworks**
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="26"/> Python  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /> Java  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="26" /> Java  
 <img src="./img/spring-original.svg" width="26"/> Spring Boot  
-<img src="./img/javascript-original.svg" width="26"/> JavaScript  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"  width="26" /> JavaScript  
 <img src="./img/angularjs-plain.svg" width="26"/> Angular  
-<img src="./img/nodejs-original.svg" width="26"/> Node.js  
-<img src="./img/nodejs-original.svg" width="26"/> Typescript
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="26" />  Node.js  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="26" />  Typescript
 
 **Data & ETL**
 
-<img src="./img/mysql-original.svg" width="26"/> MySQL  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="26" />  MySQL  
 <img src="./img/microsoftsqlserver-plain.svg" width="26"/> SQL Server  
 <img src="./img/postgresql-plain.svg" width="26"/> PostgreSQL  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="26"/> MongoDB  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="26"/> Oracle
-<img src="./img/pyspark.svg" width="26"/> PySpark  
-<img src="./img/dbt.svg" width="26"/> dbt Core  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"  width="26"/>  Oracle
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg"   width="26" /> PySpark  
+⚡ dbt Core  
 
 **Herramientas de Desarrollo**
 
@@ -131,8 +131,7 @@ Aquí algunos de los proyectos más representativos en los que he trabajado, aba
 ## 🌐 Conecta conmigo
 
 [![LinkedIn](./img/linkedin-light.svg)](https://www.linkedin.com/in/jeancolonia)&nbsp;&nbsp;
-[![Instagram](./img/instagram-light.svg)](https://www.instagram.com/jeancolonia)&nbsp;&nbsp;
-[![YouTube](./img/youtube-light.svg)](https://www.youtube.com/channel/UCpOlazz3W7XgADPeijoI6Yg)
+
 
 ---
 
