@@ -26,16 +26,17 @@ Además, estoy complementando mi perfil técnico con conocimientos como QA en de
 ## 🔧 Tecnologías y herramientas
 
 **Testing & QA**
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" /> Selenium  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cucumber/cucumber-plain.svg" /> Cucumber  
+
+<img src="./img/selenium-original.svg" width="26"/> Selenium  
+<img src="./img/cucumber-plain.svg" width="26"/>  Cucumber  
 <img src="./img/jmeter.svg" width="26"/> JMeter y Blazemeter
 <img src="./img/rest-assured.svg" width="26"/> REST Assured  
 <img src="./img/pytest.svg" width="26"/> Pytest  
 <img src="./img/pytest.svg" width="26"/> Playwright  
 <img src="./img/pytest.svg" width="26"/> Appium
 <img src="./img/pytest.svg" width="26"/> Karate
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />  Postman  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />  Gatling
+<img src="./img/postman.svg" width="26"/>  Postman  
+<img src="./img/gatling.svg" width="26"/>  Gatling
 
 
 **Lenguajes & Frameworks**
