@@ -1,16 +1,19 @@
 # 👋 ¡Hola! Soy Jean Colonia
 
-### 🧪 QA Engineer | 💻 Software Developer | ⚙️ Especialista en Testing Ágil
+### 🧪 Software QA Engineer | 💻 Software Developer | ⚙️ Especialista en Testing Ágil | 🧪 Software Development Engineer in Test (SDET)
 
 📍 Actualmente en Perú  
 🎓 Ingeniero de Sistemas e Informática  
-💼 Más de 4 años de experiencia profesional en Ingeniería de Calidad de Software  
+💼 Más de 6 años de experiencia en tecnología, incluyendo 2 años como Software Developer y actualmente 4 años como Ingeniero de Calidad de Software (QA Engineer).
 
 ---
 
 ## 💼 Sobre mí
 
-Soy un profesional con sólida formación en desarrollo de software y una fuerte especialización en **Calidad de Software (QA)**, desempeñándome principalmente como **QA Engineer** durante los últimos 4 años. Mi enfoque está centrado en la **calidad continua**, el **testing ágil** y la **automatización de pruebas** para mejorar la eficiencia y fiabilidad de los productos.
+Soy un profesional con sólida formación en desarrollo de software y una fuerte especialización en **Calidad de Software (QA)**.  
+Antes de desempeñarme como **QA Engineer** durante los últimos 4 años, trabajé por 2 años como **Software Developer**, participando en el desarrollo de aplicaciones backend (APIs REST con **Java** y **Node.js**), frontend (**Angular** y **JavaScript**) y manejo de bases de datos relacionales como **MySQL** y **PostgreSQL**.  
+Mi enfoque actual está centrado en la **calidad continua**, el **testing ágil** y la **automatización de pruebas** para mejorar la eficiencia y fiabilidad de los productos.
+
 
 Tengo experiencia en diseño y ejecución de pruebas:
 - 🧪 **Web**
