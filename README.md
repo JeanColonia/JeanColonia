@@ -22,7 +22,7 @@ Tengo experiencia en diseño y ejecución de pruebas:
 - ⚡ **Performance**
 - 🔁 **Testing Manual y Automatizado**
 
-Además, estoy complementando mi perfil técnico con conocimientos como QA en desarrollo y análisis de datos mediante herramientas como **Python, Pytest, PySpark y dbt**.
+Además, estoy complementando mi perfil técnico con conocimientos como QA en desarrollo y análisis de datos mediante herramientas como **Python, Pandas, Pytest, PySpark y dbt**.
 
 ---
 
