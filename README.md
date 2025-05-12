@@ -32,14 +32,14 @@ Además, estoy complementando mi perfil técnico con conocimientos como QA en de
 
 <img src="./img/selenium-original.svg" width="26"/> Selenium  
 <img src="./img/cucumber-plain.svg" width="26"/>  Cucumber  
-⚡ JMeter y Blazemeter
+⚡ JMeter y Blazemeter  
 <img src="./img/rest-assured.svg" width="26"/> REST Assured  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" width="26" /> Pytest  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" width="26"/> Playwright  
-⚡ Appium
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/karatelabs/karatelabs-original.svg"  width="26" /> Karate
-<img src="./img/postman.svg" width="26"/>  Postman  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gatling/gatling-original.svg" width="26" /> Gatling
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" width="26"/> Playwright   
+⚡ Appium   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/karatelabs/karatelabs-original.svg"  width="26" /> Karate   
+<img src="./img/postman.svg" width="26"/>  Postman    
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gatling/gatling-original.svg" width="26" /> Gatling   
 
 
 **Lenguajes & Frameworks**
@@ -54,13 +54,13 @@ Además, estoy complementando mi perfil técnico con conocimientos como QA en de
 
 **Data & ETL**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="26" />  MySQL  
-<img src="./img/microsoftsqlserver-plain.svg" width="26"/> SQL Server  
-<img src="./img/postgresql-plain.svg" width="26"/> PostgreSQL  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="26"/> MongoDB  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"  width="26"/>  Oracle
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg"   width="26" /> PySpark  
-⚡ dbt Core  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="26" />  MySQL   
+<img src="./img/microsoftsqlserver-plain.svg" width="26"/> SQL Server   
+<img src="./img/postgresql-plain.svg" width="26"/> PostgreSQL   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="26"/> MongoDB   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"  width="26"/>  Oracle  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg"   width="26" /> PySpark   
+⚡ dbt Core    
 
 **Herramientas de Desarrollo**
 
